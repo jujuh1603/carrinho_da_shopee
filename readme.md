@@ -1,9 +1,9 @@
-## Objetivo
+<h1>Projeto: Lógica de um Carrinho de Compras 🛒</h1>
 
-Criar um carrrinho de compras baseado no carrinho de compras da shopee, aonde o carrinho armazene itens e faça o cálculo de sub-itens automaticamente
+<h3><b>📌 Objetivo: </b>Criar um carrrinho de compras baseado no carrinho de compras da shopee, aonde o carrinho armazene itens e faça o cálculo de sub-itens automaticamente</h3>
 
-// dominio da aplicação: carrinho de compras
+<h3><b>Dominio da aplicação: </b>Carrinho de Compras</h3>
 
-//as ententidades representadas
-//->carrinho = cart.js
-//->itens = item.js
+➡️ As ententidades representadas;<br>
+➡️ Carrinho = cart.js;<br>
+➡️ Itens = item.js;
